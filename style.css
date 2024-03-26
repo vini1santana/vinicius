@@ -1,32 +1,51 @@
 {
     margin: 0;
     padding: 0;
-
 }
-
-
-body {
-    background: #CCCCCC
+body {   
 }
-
 #banner {
     width: 100%;
 }
-
-h1 {
+.principal}
+background: # cccccc
+padding:30px;
+}
+h1{
     text-align: center
 }
-
 p {
     text-align: center;
 }
-
 #missao {
     font-size: 20px
 }
-
 em strong {
-    color: #FF0000;
+    color:black
+} 
+.itens{
+    font-style:talic;
+}
+.beneficios{
+background: #ffffff;
+padding: 20px;
+}
+h2{
+text-align: center;
+}
+ul{
+duplay: inline-block
+vertical-align: top;
+width: 20%;
+    margin-right: 15%;
+}
+.imagem-beneficios{
+widht: 50%
 }
 
-   
+
+
+    
+
+
+
