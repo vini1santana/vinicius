@@ -29,8 +29,10 @@ em strong {
 .beneficios{
 background: #ffffff;
 padding: 20px;
+.titulo-principal{
+padding-left: 20px;
 }
-h2{
+titulo-secundario{]
 text-align: center;
 }
 ul{
